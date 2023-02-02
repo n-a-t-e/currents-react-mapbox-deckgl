@@ -6,7 +6,6 @@
   "homepage": "https://n-a-t-e.github.io/currents-react-mapbox-deckgl/",
   "scripts": {
     "start": "vite --open",
-    "start-local": "vite --config ../../../vite.config.local.mjs",
     "build": "vite build"
   },
   "dependencies": {
