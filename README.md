@@ -1,4 +1,4 @@
-## Example: Use deck.gl with react-map-gl and Webpack
+# Currents map using deck.gl, react-map-gl, vector tiles
 
 This project adds a vector tiling layer to the work done here:
 <https://observablehq.com/@tmcw/ocean-current>

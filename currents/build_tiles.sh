@@ -11,7 +11,7 @@ python wind_uv.py
 # tippecanoe to create tileset of vector files
 rm -rf ../tiles
 
-tippecanoe currents.csv -e ../tiles --no-tile-compression --force --drop-fraction-as-needed --drop-densest-as-needed -z11 -Z6 --maximum-tile-bytes=50000
+tippecanoe currents.csv -e ../public/tiles --no-tile-compression --force --drop-fraction-as-needed --drop-densest-as-needed -z11 -Z6 --maximum-tile-bytes=50000
 
 # --maximum-tile-features=
 
