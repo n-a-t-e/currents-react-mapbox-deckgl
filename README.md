@@ -1,7 +1,7 @@
 # Currents map using deck.gl, react-map-gl, vector tiles
 
 This project adds a vector tiling layer to the work done here:
-<https://observablehq.com/@tmcw/ocean-current>
+<https://observablehq.com/@tmcw/ocean-currents>
 
 ## Generating tiles
 
