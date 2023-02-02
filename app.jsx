@@ -83,7 +83,7 @@ function Root() {
   };
 
   const tileLayer = new MVTLayer({
-    data: ['/tiles/{z}/{x}/{y}.pbf'],
+    data: [import.meta.env.BASE_URL + '/tiles/{z}/{x}/{y}.pbf'],
     maxRequests: 20,
     binary: false,
     loadOptions: loaderOptions,
